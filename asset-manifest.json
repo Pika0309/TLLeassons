@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TLLeassons/static/css/main.e6c13ad2.css",
+    "main.js": "/TLLeassons/static/js/main.1448a77a.js",
+    "index.html": "/TLLeassons/index.html",
+    "main.e6c13ad2.css.map": "/TLLeassons/static/css/main.e6c13ad2.css.map",
+    "main.1448a77a.js.map": "/TLLeassons/static/js/main.1448a77a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1448a77a.js"
+  ]
+}
